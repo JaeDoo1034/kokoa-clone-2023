@@ -2,4 +2,4 @@
 
 HTML, CSS 기초부터 다지기.
 
-CSS got so much better!
+HTML & CSS got so much better!
